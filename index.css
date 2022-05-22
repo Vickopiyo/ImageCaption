@@ -1,0 +1,6 @@
+fieldset{
+    border: 5px solid blueviolet;
+    width: 40%;
+    border-radius: 20px;
+    display: grid;
+}
